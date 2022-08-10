@@ -1,0 +1,171 @@
+body {
+    background: #333;
+    color: #efefef;
+}
+
+/* Footer Design */
+
+.footer {
+    margin-top: 25px;
+    width: 100%;
+    padding: 100px 15%;
+    background: #333;
+    color: #efefef;
+    display: flex;
+}
+
+.footer div {
+    text-align: center;
+}
+
+.col-2 {
+    padding: 0 200px 0 200px; 
+}
+
+.footer div h3 {
+    font-weight: 300;
+    margin-bottom: 30px;
+    letter-spacing: 1px;
+}
+
+.col-1 a{
+    display: block;
+    text-decoration: none;
+    color: #efefef;
+    margin-bottom: 10px;
+}
+
+form input {
+    width: 400px;
+    height: 45px;
+    border-radius: 4px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    outline: none;
+    border: none;
+}
+
+form button {
+    background: transparent;
+    border: 2px solid #fff;
+    color: #fff;
+    border-radius: 30px;
+    font-size: 15px;
+    cursor: pointer;
+    padding: 20px;
+}
+
+.social-icons {
+    margin-top: 30px;
+}
+
+.social-icons i {
+    font-size: 22px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+/* Regular design */
+
+.article {
+    float: right;
+    text-align: right;
+}
+
+/* Article design */
+
+.all-browsers {
+    margin: 0;
+    padding: 5px;
+    background-color: #333;
+  }
+  
+  .all-browsers > h1, .browser {
+    margin: 35px;
+    padding: 35px;
+  }
+  
+  .browser {
+    background: white;
+    color: #333;
+  }
+  
+  .browser > h2, p {
+    margin: 4px;
+    font-size: 90%;
+  }
+
+  /* content design */
+  
+  .content {
+    margin-top: 75px;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  /* image design */
+
+  .images {
+    margin: 50px;
+  }
+
+  .images img {
+    border: 5px solid white;
+    padding: 10px;
+    margin: 5px;
+  }
+
+  /* navbar design */
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
+
+  /* image design */
+  .sectionOne {
+    align-items: center;
+    display: inline-block;
+    margin-left: 55px;
+  }
+
+  .sectionTwo {
+    align-items: center;
+    display: inline-block;
+    margin-left: 35px;
+  }
+
+  .javascriptInfo {
+    font-size: 25px;
+  }
+
+  .pythonInfo {
+    font-size: 25px;
+  }
+
+  .csharpInfo {
+    font-size: 25px;
+  }
+
+
